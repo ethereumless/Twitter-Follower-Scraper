@@ -1,4 +1,4 @@
-# 🐦 Twitter Follower Scraper
+# 🐦 Twitter Followers Scraper
 
 A command-line tool to scrape followers from a public X profile using the legacy X API.
 
